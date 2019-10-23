@@ -1,0 +1,8 @@
+Assignment 5 – African Mobile Data Analysis
+
+
+You are a Data Consultant brought in by African Mobile, a mobile company that aggressively expanded across the entire continent of Africa beginning in 2013. Business has been humming along for the past four years, and they would like you to conduct a profitability analysis of their business. This will involve looking at not only profitability, but also Salesperson performance. African Mobile has requested the following: 
+1) An interactive dashboard showing Profit by City, tied to Profit by Segment and a Profit Trend (Use a map, a bar chart, and a line chart). African Mobile should be able to select a City on the map and see the other charts adjust. 
+2) An interactive scatterplot showing the relationship between Profit and Sales by either Region, Country, or City, depending on their choice (Use a scatter and a parameter). 
+3) An interactive Salesperson analysis showing Contracts Sold by each person, as well as a second chart showing difference from a selected Salesperson (Use two bar charts and a parameter). 
+4) A two-way matrix, over time, tracking Salesperson quarterly performance against benchmarks (in parentheses) for Contracts Sold (10) and Close Rate (30%) (Use the Pages functionality). 
