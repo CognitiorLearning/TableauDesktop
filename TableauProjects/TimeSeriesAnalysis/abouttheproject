@@ -1,0 +1,9 @@
+Assignment 8 – Time Series Analysis
+
+
+You are a Senior Business Analyst at retailer Amazing Mart’s EU office. Your CMO has approached you and asked you to look into how orders change over time, so her team can better allocate their promotional budget and campaigns. She has specifically asked for the following information:  
+A monthly seasonality analysis for Sales by Category in each year (Use a line chart). 
+Wanting to drill further, your CMO has asked for the Sales seasonality to be shown for each day of the week, looking for any patterns by weekday instead of just month (Use an area chart).   
+Her team has a working theory that the first half of the month has better Sales than the second half in some Regions. Create a visualization to compare the beginning of the month to the end to see if this pattern holds (Use a bar chart). 
+An ability to visualize Sales by Customer Cohort, specifically a year of first purchase cohort, showing whether repeat or new customer acquisition is driving sales (Use a stacked bar chart).   
+A chart showing Sales, broken down by Segment, before and after a recent marketing campaign, with a reference line showing the campaign start date. Knowing your CMO, she would like to be able to see this for whatever campaign she chooses, not just the most recent campaign, so it would be great to surprise her with a dynamic chart that adjusts based off whatever campaign date she chooses to look at (Use a line chart, a reference line, and a parameter). 
