@@ -1,0 +1,7 @@
+Assignment 6 – Digital Ads Success
+
+
+You are the Senior Business Analyst at DigitalAds, a rapidly-growing, fast-moving online advertising company that has been expanding across the United States for the past three years. Excited by the growth they have seen, the two co-founders have asked you to build a Tableau report they can use to showcase DigitalAds’ success. They have asked for the following visualizations: 
+An animated map showing the quarterly growth of DigitalAds’ Sales by State across the US (Use a map and the Pages functionality). 
+A chart showing Sales for each year by Customer Type, with labels that show Percent of Total Sales by Customer Type and Total Sales by Year (Use a stacked bar chart). 
+A dashboard showing Total Sales by State for the entire company history, a Treemap showing Sales by Region and Sub-Region, and a Time Series of Sales growth by quarter and Customer Type (Use a map, a treemap, and a line chart). 
