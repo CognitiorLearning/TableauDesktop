@@ -1,0 +1,11 @@
+Assignment 1 – Console Games Sales Analysis
+
+
+You have been hired to join the in-house Data Science team of a video games design company. The company designs games for computers but is considering getting into the console games business. Note: consoles refer to devices that are attached to TV’s. For example, Play Station.  However, the executives of the company have noticed that other rival console games design companies have been suffering increasing losses in the past couple of years. That’s why they want you to investigate the state of the industry to help them make the decision of whether to get into this business. The dataset with over 16,000 console game titles sold between 1980 and 2015. Sales are broken down into 4 regions and are shown in Millions of Dollars.  
+
+The CSO (Chief Strategy Officer) has posed you the following questions: 
+1) How have the total sales of console games been declining over the years by different genres? 
+2) How do different platforms compare side-by-side in terms of aggregate global sales since their inceptions? Who is the leader? 
+3) How do different publishers compare side-by-side in terms of aggregate global sales since their inceptions? Who is the leader? 
+4) How do the New Generation (New Gen) consoles compare in terms of total global sales for combined 2014 and 2015? New Gen platforms in this dataset are PS4, XOne and WiiU.
+5) What are the top 10 game titles with the highest global sales
